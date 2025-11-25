@@ -1,0 +1,16 @@
+<idea-plugin>
+    <id>com.github.dsandi.synthwave84</id>
+    <name>SynthWave '84</name>
+    <vendor email="user@example.com" url="https://github.com/dsandi/synthwave84-jetbrains">dsandi</vendor>
+
+    <description><![CDATA[
+    SynthWave '84 Theme for JetBrains IDEs.<br>
+    A port of the popular VS Code theme.
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="e62afb75-6a66-4a3f-86e2-562d75af5876" path="/synthwave84.theme.json"/>
+    </extensions>
+</idea-plugin>
