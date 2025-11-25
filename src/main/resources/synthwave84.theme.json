@@ -42,22 +42,22 @@
             "pressedBorderColor": "#ff7edb"
         },
         "Button": {
-            "startBackground": "#ff7edb",
-            "endBackground": "#ff7edb",
-            "startBorderColor": "#ff7edb",
-            "endBorderColor": "#ff7edb",
-            "default.startBackground": "#36f9f6",
-            "default.endBackground": "#36f9f6",
-            "default.startBorderColor": "#36f9f6",
-            "default.endBorderColor": "#36f9f6",
-            "default.foreground": "#000000",
-            "foreground": "#000000"
+            "startBackground": "#614D85",
+            "endBackground": "#614D85",
+            "startBorderColor": "#614D85",
+            "endBorderColor": "#614D85",
+            "default.startBackground": "#614D85",
+            "default.endBackground": "#614D85",
+            "default.startBorderColor": "#614D85",
+            "default.endBorderColor": "#614D85",
+            "default.foreground": "#ffffff",
+            "foreground": "#ffffff"
         },
         "ComboBox": {
-            "background": "#262335",
+            "background": "#2a2139",
             "selectionBackground": "#ffffff20",
             "nonEditableBackground": "#241b2f",
-            "ArrowButton.background": "#262335",
+            "ArrowButton.background": "#2a2139",
             "ArrowButton.nonEditableBackground": "#241b2f"
         },
         "CompletionPopup": {
@@ -104,7 +104,7 @@
             "selectedForeground": "#ffffff",
             "inactiveBackground": "#262335",
             "inactiveForeground": "#ffffff99",
-            "modifiedItemForeground": "#ffffff"
+            "modifiedItemForeground": "#b893ceee"
         },
         "FileColor": {
             "Blue": "#36f9f620",
@@ -120,9 +120,9 @@
             "disabledForeground": "#ffffff50"
         },
         "Link": {
-            "activeForeground": "#36f9f6",
-            "hoverForeground": "#36f9f6",
-            "pressedForeground": "#36f9f6",
+            "activeForeground": "#f97e72",
+            "hoverForeground": "#f97e72",
+            "pressedForeground": "#f97e72",
             "visitedForeground": "#ff7edb"
         },
         "List": {
@@ -202,22 +202,22 @@
         },
         "ScrollBar": {
             "background": "#262335",
-            "Transparent.thumbColor": "#ffffff30",
-            "Transparent.thumbBorderColor": "#ffffff00",
-            "Transparent.hoverThumbColor": "#ffffff40",
-            "Transparent.hoverThumbBorderColor": "#ffffff00",
-            "thumbColor": "#ffffff30",
-            "thumbBorderColor": "#ffffff00",
-            "hoverThumbColor": "#ffffff40",
-            "hoverThumbBorderColor": "#ffffff00"
+            "Transparent.thumbColor": "#9d8bca30",
+            "Transparent.thumbBorderColor": "#00000000",
+            "Transparent.hoverThumbColor": "#9d8bca50",
+            "Transparent.hoverThumbBorderColor": "#00000000",
+            "thumbColor": "#9d8bca30",
+            "thumbBorderColor": "#00000000",
+            "hoverThumbColor": "#9d8bca50",
+            "hoverThumbBorderColor": "#00000000"
         },
         "SearchEverywhere": {
             "Tab.selectedBackground": "#262335",
             "Tab.selectedForeground": "#ffffff"
         },
         "SearchMatch": {
-            "startBackground": "#fede5d40",
-            "endBackground": "#fede5d40"
+            "startBackground": "#D18616bb",
+            "endBackground": "#D18616bb"
         },
         "Separator": {
             "separatorColor": "#444251"
@@ -249,11 +249,11 @@
             "separatorColor": "#444251"
         },
         "TextArea": {
-            "background": "#262335",
+            "background": "#2a2139",
             "selectionBackground": "#ffffff20"
         },
         "TextField": {
-            "background": "#262335",
+            "background": "#2a2139",
             "selectionBackground": "#ffffff20"
         },
         "TitlePane": {
@@ -291,7 +291,13 @@
             "selectionBackground": "#ffffff20",
             "selectionInactiveBackground": "#ffffff10",
             "hoverBackground": "#ffffff15",
-            "rowHeight": 24
+            "rowHeight": 24,
+            "modifiedItemForeground": "#b893ceee",
+            "addedItemForeground": "#72f1b8cc",
+            "deletedItemForeground": "#fe4450",
+            "untrackedItemForeground": "#72f1b8",
+            "ignoredItemForeground": "#ffffff59",
+            "conflictItemForeground": "#fede5d"
         },
         "ValidationTooltip": {
             "errorBackground": "#f97e7220",
