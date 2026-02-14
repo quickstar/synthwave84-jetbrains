@@ -63,7 +63,7 @@
     <!-- General UI Elements -->
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="848bbd" />
+        <option name="FOREGROUND" value="495495" />
         <option name="BACKGROUND" value="1a1625" />
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -162,7 +162,7 @@
     <!-- Keywords -->
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="fede5d" />
+        <option name="FOREGROUND" value="0080ff" />
       </value>
     </option>
     
@@ -311,28 +311,28 @@
     
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="fede5d" />
+        <option name="FOREGROUND" value="0080ff" />
       </value>
     </option>
     
     <!-- Comments -->
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="848bbd" />
+        <option name="FOREGROUND" value="495495" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="848bbd" />
+        <option name="FOREGROUND" value="495495" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="848bbd" />
+        <option name="FOREGROUND" value="495495" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -352,7 +352,7 @@
     
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="fede5d" />
+        <option name="FOREGROUND" value="0080ff" />
       </value>
     </option>
     
@@ -376,7 +376,7 @@
     
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="fede5d" />
+        <option name="FOREGROUND" value="0080ff" />
       </value>
     </option>
     
@@ -693,14 +693,14 @@
     <!-- Bash/Shell Script -->
     <option name="BASH.SHEBANG">
       <value>
-        <option name="FOREGROUND" value="848bbd" />
+        <option name="FOREGROUND" value="495495" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     
     <option name="BASH.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="fede5d" />
+        <option name="FOREGROUND" value="0080ff" />
       </value>
     </option>
     
@@ -748,7 +748,7 @@
     
     <option name="BASH.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="848bbd" />
+        <option name="FOREGROUND" value="495495" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
