@@ -3,7 +3,7 @@ plugins {
     id("org.jetbrains.intellij") version "1.17.2"
 }
 
-group = "com.github.dsandi.synthwave84"
+group = "com.github.quickstar.synthwave84"
 version = "1.0.0"
 
 repositories {

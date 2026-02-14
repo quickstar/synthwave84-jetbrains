@@ -169,7 +169,7 @@
     <!-- Strings -->
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ff8b39" />
+        <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
     
@@ -358,7 +358,7 @@
     
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="ff8b39" />
+        <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
     
@@ -382,7 +382,7 @@
     
     <option name="XML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="ff8b39" />
+        <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
     
@@ -508,7 +508,7 @@
     
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="ff8b39" />
+        <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
     
@@ -706,7 +706,7 @@
     
     <option name="BASH.STRING">
       <value>
-        <option name="FOREGROUND" value="ff8b39" />
+        <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
     
