@@ -1,3 +1,5 @@
+set windows-shell := ["powershell.exe", "-NoLogo", "-Command"]
+
 image := "eclipse-temurin:17-jdk"
 outdir := "build/distributions"
 
