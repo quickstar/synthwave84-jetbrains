@@ -1,11 +1,11 @@
 <idea-plugin>
-    <id>com.github.dsandi.synthwave84</id>
-    <name>SynthWave '84</name>
-    <vendor email="user@example.com" url="https://github.com/dsandi/synthwave84-jetbrains">dsandi</vendor>
+    <id>com.github.quickstar.synthwave84</id>
+    <name>SynthWave '84 Omarchy</name>
+    <vendor url="https://github.com/QuiCkSTaR/synthwave84-jetbrains">QuiCkSTaR</vendor>
 
     <description><![CDATA[
-    SynthWave '84 Theme for JetBrains IDEs.<br>
-    A port of the popular VS Code theme.
+    SynthWave '84 Omarchy Theme for JetBrains IDEs.<br>
+    A fork of the SynthWave '84 VS Code theme, tuned to match the omarchy desktop aesthetic.
     ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
